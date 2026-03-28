@@ -1,0 +1,18 @@
+schema_version: "vyges-upstream-v1"
+upstream:
+  type: "standalone"
+  repo: https://github.com/vyges/vyges-rstmgr-lite
+  branch: main
+  commit: a5cea79c8819625cec4f1c2fa5d74edaa1dc44e4
+  extracted_at: "2026-03-28T01:51:07Z"
+import:
+  rtl:
+    - path: "rtl"
+      map_to: "rtl"
+  license:
+    - path: "LICENSE"
+  readme:
+    - path: "README.md"
+license:
+  spdx: Apache-2.0
+  file: LICENSE
