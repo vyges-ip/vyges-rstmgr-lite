@@ -3,7 +3,7 @@ upstream:
   type: "standalone"
   repo: https://github.com/vyges/vyges-rstmgr-lite
   branch: main
-  commit: a5cea79c8819625cec4f1c2fa5d74edaa1dc44e4
+  commit: e33fc8c82903cd780018c5fb90298d141951a154
   extracted_at: "2026-03-28T01:51:07Z"
 import:
   rtl:
