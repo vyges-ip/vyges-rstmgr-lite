@@ -3,7 +3,7 @@ upstream:
   type: "standalone"
   repo: https://github.com/vyges/vyges-rstmgr-lite
   branch: main
-  commit: e33fc8c82903cd780018c5fb90298d141951a154
+  commit: 0a99c9f14e64b7506aedc71dac6ab728a3536b76
   extracted_at: "2026-03-28T01:51:07Z"
 import:
   rtl:
@@ -16,5 +16,4 @@ import:
 license:
   spdx: Apache-2.0
   file: LICENSE
-
 metadata_locked: true
